@@ -1,3 +1,4 @@
+*concert_info_list.cache*
 *.py[cod]
 
 # C extensions
@@ -36,4 +37,6 @@ nosetests.xml
 #.pydevproject
 #QT
 *.cache
-
+#icon
+*.png
+*.jpg
